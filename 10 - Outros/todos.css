@@ -1,0 +1,12 @@
+li {
+	border: 2px solid red;
+}
+
+#playPes {
+	border: 5px dashed black;
+	background-color: yellow;
+}
+
+.classeTeste {
+	text-decoration: line-through;
+}
